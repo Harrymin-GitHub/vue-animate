@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/npm/v/%40asika32764/vue-animate.svg?style=flat-square)](https://www.npmjs.com/package/@asika32764/vue-animate)
 [![License](https://img.shields.io/npm/l/%40asika32764/vue-animate.svg?style=flat-square)](LICENSE)
-
+https://the-allstars.com/vue2-animate/
 Cross-browser CSS3 animation library, a port of animate.css for use with Vue.js transitions. [DEMO](https://vue-animate.simular.co/)
 
 Support for:
